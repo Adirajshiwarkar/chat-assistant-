@@ -51,6 +51,9 @@ pip install Flask Waitress
 | 1  | Alice  | Sales       | 50000  | 2021-01-15 |
 | 2  | Bob    | Engineering | 70000  | 2020-06-10 |
 | 3  | Charlie| Marketing   | 60000  | 2022-03-20 |
+| 4  | David  | Sales       | 55000  | 2022-05-12 |
+| 5  | Emma   | Engineering | 72000  | 2023-01-11 |
+| 6  | Frank  | Marketing   | 58000  | 2021-07-08 |
 
 ### Table: Departments
 | ID | Name        | Manager  |
@@ -58,6 +61,7 @@ pip install Flask Waitress
 | 1  | Sales       | Alice    |
 | 2  | Engineering | Bob      |
 | 3  | Marketing   | Charlie  |
+| 4  | HR          | David    |
 
 ---
 
